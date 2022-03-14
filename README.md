@@ -29,7 +29,10 @@ etc. are stripped. If there are no coordinates available, dummy coordinates for 
 #### 2.6 Syntatic Features
 Calculate and add Syntatic features.
 
-#### 3 Visualization Results
+### 3 Model
+More details are in `models` folder
+
+### 4 Visualization Results
 Processsed with Esri ArcGis Pro, the results can be seen in the "Visualization Results" Folder. 
 
 ### Authors
