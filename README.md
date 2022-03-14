@@ -36,6 +36,9 @@ More details are in `models` folder
 Processsed with Esri ArcGis Pro, the results can be seen in the "Visualization Results" Folder. 
 
 ### Authors
-Maximilian Zollner; maximilian.zollner@tum.de
-Ramesse Zatti; ramesse.zatti@tum.de
 Shou Shen; shou.shen@tum.de
+
+Maximilian Zollner; maximilian.zollner@tum.de
+
+Ramesse Zatti; ramesse.zatti@tum.de
+
